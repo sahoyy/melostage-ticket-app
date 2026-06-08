@@ -2,6 +2,8 @@
 
 Android-based concert ticket booking application developed using Java. This application allows users to browse concert events, calculate ticket prices, and manage ticket bookings through a user-friendly mobile interface.
 
+This project was developed as part of an academic software engineering course and is preserved for portfolio purposes.
+
 ## 📌 Project Overview
 
 MeloStage Ticket App was developed as an academic software engineering project to simulate a real-world ticket booking system. The application focuses on ticket management, booking workflows, and price calculation features.
